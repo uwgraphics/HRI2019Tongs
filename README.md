@@ -12,10 +12,12 @@ The Instrumented Tongs are used to record large scale object manipulation tasks 
 * The prongs provided for mounting the motion capture markers need to be threaded. Use M4 x 0.7 (tap)die to thread the prongs.
 
 ## Small Parts
-* Pin - -
-* Bushings -
-* Spring -
-* Screws -
+* Pin - [M5 x 20mm Dowel Pin] (https://www.grainger.com/product/GRAINGER-APPROVED-Unhardened-Ground-Stainless-1TY33)
+* Bushings
+** [Igus Plain Bush JSM-0507-05](https://www.igus.com/product/?artnr=JSM-0507-05)
+** [Igus Plain Bush JFM-0507-05](https://www.igus.com/product/?artnr=JFM-0507-05)
+* Spring - [General spring available for salad tongs](https://www.webstaurantstore.com/american-metalcraft-fs911-replacement-flat-spring-for-utility-tongs/45935HS.html)
+* Screws - Screws required to attach the force torque sensors. 
 
 ## Advanced Solidworks Users
 To modify the tongs start with the assembly file assembly.SLDASM. Open the corresponding parts from the assembly. The file armV2.SLDPRT is the body of the tongs and has two configurations corresponding to the upper and lower sides of the tongs. Use the [configuration manager](http://help.solidworks.com/2018/english/solidworks/sldworks/c_Configurations_Overview.htm) to switch between configurations.
