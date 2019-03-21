@@ -12,7 +12,7 @@ The Instrumented Tongs are used to record large scale object manipulation tasks 
 * The prongs provided for mounting the motion capture markers need to be threaded. Use M4 x 0.7 (tap)die to thread the prongs.
 
 ## Small Parts
-* Pin - [M5 x 20mm Dowel Pin] (https://www.grainger.com/product/GRAINGER-APPROVED-Unhardened-Ground-Stainless-1TY33)
+* Pin - [M5 x 20mm Dowel Pin](https://www.grainger.com/product/GRAINGER-APPROVED-Unhardened-Ground-Stainless-1TY33)
 * Bushings 
 1. 1 x [Igus Plain Bush JSM-0507-05](https://www.igus.com/product/?artnr=JSM-0507-05)
 1. 2 x [Igus Plain Bush JFM-0507-05](https://www.igus.com/product/?artnr=JFM-0507-05)
