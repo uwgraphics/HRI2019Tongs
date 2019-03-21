@@ -13,9 +13,9 @@ The Instrumented Tongs are used to record large scale object manipulation tasks 
 
 ## Small Parts
 * Pin - [M5 x 20mm Dowel Pin] (https://www.grainger.com/product/GRAINGER-APPROVED-Unhardened-Ground-Stainless-1TY33)
-* Bushings
-** [Igus Plain Bush JSM-0507-05](https://www.igus.com/product/?artnr=JSM-0507-05)
-** [Igus Plain Bush JFM-0507-05](https://www.igus.com/product/?artnr=JFM-0507-05)
+* Bushings 
+1. 1 x [Igus Plain Bush JSM-0507-05](https://www.igus.com/product/?artnr=JSM-0507-05)
+1. 2 x [Igus Plain Bush JFM-0507-05](https://www.igus.com/product/?artnr=JFM-0507-05)
 * Spring - [General spring available for salad tongs](https://www.webstaurantstore.com/american-metalcraft-fs911-replacement-flat-spring-for-utility-tongs/45935HS.html)
 * Screws - Screws required to attach the force torque sensors. 
 
